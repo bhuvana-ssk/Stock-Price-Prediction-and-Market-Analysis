@@ -14,9 +14,9 @@ Prescriptive analysis is the final stage of our study, where we aim to provide a
 This stock market analysis covers the history and data extraction of three prominent companies, employs descriptive analytics to identify patterns, utilizes predictive analysis to forecast stock price movements, and provides prescriptive analysis to guide investment decisions. By examining Google, Tesla, and Twitter, we aim to offer valuable insights for investors in today's dynamic financial market.
 
 ## Modules
-- Descriptive Analytics
-- Predictive Analytics
-- Prescriptive Analytics
+- Descriptive Analysis
+- Predictive Analysis
+- Prescriptive Analysis
 
 ## Data Extraction
 ![image](https://github.com/bhuvana-ssk/Stock-Price-Prediction-and-Market-Analysis/assets/109230526/e755e5f8-7cd6-444a-8400-4f6f0c506938)
